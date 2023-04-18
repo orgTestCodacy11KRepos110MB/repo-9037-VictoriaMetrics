@@ -18,7 +18,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.11.49
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.30.1
 	github.com/cespare/xxhash/v2 v2.2.0
-	github.com/cheggaaa/pb/v3 v3.1.0
+	github.com/cheggaaa/pb/v3 v3.1.2
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/snappy v0.0.4
 	github.com/googleapis/gax-go/v2 v2.7.0
@@ -34,7 +34,7 @@ require (
 	github.com/valyala/quicktemplate v1.7.0
 	golang.org/x/net v0.5.0
 	golang.org/x/oauth2 v0.4.0
-	golang.org/x/sys v0.4.0
+	golang.org/x/sys v0.5.0
 	google.golang.org/api v0.109.0
 	gopkg.in/yaml.v2 v2.4.0
 )
